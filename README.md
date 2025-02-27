@@ -7,17 +7,14 @@
  - Version control ensures project integrity by preventing data loss, resolving conflicts, and maintaining a clear history of changes.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-# Setting Up a New Repository on GitHub
-This guide provides step-by-step instructions for creating and configuring a new repository on GitHub.
----
-## Step 1: Sign in to GitHub
+ Step 1: Sign in to GitHub
 1. Go to [GitHub.com](https://github.com) and log in to your account. If you don’t have an account, create one.
 ---
-## Step 2: Create a New Repository
+ Step 2: Create a New Repository
 1. On the GitHub homepage, click the **“+”** icon in the top-right corner and select **“New repository”** from the dropdown menu.
 2. Alternatively, click the **“New”** button on the left sidebar under the “Repositories” section.
 ---
-## Step 3: Configure Repository Settings
+ Step 3: Configure Repository Settings
 1. **Repository Name**: Enter a unique and descriptive name for your repository.
 2. **Description (Optional)**: Add a brief description of your project.
 3. **Visibility**: Choose between:
@@ -27,10 +24,10 @@ This guide provides step-by-step instructions for creating and configuring a new
 5. **Add .gitignore**: Select a template to exclude unnecessary files.
 6. **Choose a License**: Select a license to define usage rights (e.g., MIT, Apache, GPL).
 ---
-## Step 4: Create the Repository
+ Step 4: Create the Repository
 1. Click the **“Create repository”** button at the bottom of the page.
 ---
-## Step 5: Set Up Local Development Environment
+ Step 5: Set Up Local Development Environment
 1. **Clone the Repository**:
    - Copy the repository’s URL (HTTPS or SSH) from the GitHub page.
    - Open your terminal and run:
@@ -51,7 +48,7 @@ This guide provides step-by-step instructions for creating and configuring a new
      git push origin main
      ```
 ---
-## Step 6: Collaborate and Manage the Repository
+ Step 6: Collaborate and Manage the Repository
 1. **Invite Collaborators**:
    - Go to **Settings** > **Collaborators and teams** to add contributors.
 2. **Create Branches**:
@@ -62,7 +59,7 @@ This guide provides step-by-step instructions for creating and configuring a new
 3. **Use Pull Requests**:
    - Merge changes through pull requests for code review.
 ---
-## Key Decisions During Setup
+ Key Decisions During Setup
 1. **Repository Name**: Choose a clear and relevant name.
 2. **Visibility**: Decide between public or private.
 3. **README and Documentation**: Ensure the repository is well-documented.
