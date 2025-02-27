@@ -77,7 +77,7 @@
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 - Commits are snapshots of a project at a specific point in time that includes a message which describes the changes made, making it easier to track progress, understand the evolution of the project, and revert to previous versions if needed.
 ---
-## Steps to Make Your First Commit
+**Steps to Make First Commit**
 1. **Set Up Git**:
    - Install Git from [git-scm.com](https://git-scm.com/).
    - Configure your name and email:
